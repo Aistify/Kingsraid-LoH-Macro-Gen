@@ -1,2 +1,0 @@
-# LoH
-Created with CodeSandbox
